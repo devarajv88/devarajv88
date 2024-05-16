@@ -1,14 +1,12 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/03/04/68/52/360_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)](https://devarajv.com)
 <h1 align="center">Hi 👋, I'm Devaraj V</h1>
-<h3 align="center">A passionate Data Scientist from India.</h3>
+<h3 align="center">A passionate Data Analyst from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devarajv88](https://github.com/devarajv88)
-
-- 📝 I regularly write articles on [https://www.devarajv.com/knowledge-hub](https://www.devarajv.com/knowledge-hub)
 
 - 💬 Ask me about **Relational Databases, Probability, Statistics, Tableau, Data Analysis using Python and Product Analytics.**
 
